@@ -1,7 +1,4 @@
 # 🔐 Cybersecurity Projects Portfolio
-📞 231-624-3865  
-📧 danielhadva@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/daniel-haddad-715529308)
 
 > A showcase of hands-on cybersecurity labs, OSINT operations, digital forensics, and personal VPN/firewall builds.
 
