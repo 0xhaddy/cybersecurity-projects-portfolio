@@ -30,7 +30,7 @@ Documented each step of the exploit chain, creating detailed write-ups that serv
 
 Skills: Ethical Hacking, Linux Privilege Escalation, Web Exploitation, Reporting
 
-[➡️ View Sample Write-up (Link to your blog/repo)]
+
 
 ## Digital Forensics & Insider Threat Investigation
 *April 2025*
@@ -47,7 +47,7 @@ Authored a full forensic report detailing the chain of custody, evidence found, 
 
 Skills: Digital Forensics, File Carving, Metadata Analysis, Chain of Custody, Autopsy, FTK Imager
 
-[➡️ View Full Forensic Report (Link to a PDF/repo)]
+
 
 ## Secure Personal Network with VPN & Firewall
 *February 2025*
@@ -64,7 +64,7 @@ Hardened the server by creating and implementing strict firewall rules with UFW 
 
 Skills: Networking, OpenVPN, Pi-hole, UFW Firewall, Bash Scripting, Linux Administration
 
-[➡️ View Architecture Diagram & Scripts (Link to your repo)]
+
 
 ## OSINT Threat Intelligence & Footprint Audit
 *April 2025*
@@ -81,7 +81,7 @@ Created a threat brief outlining potential attack vectors, which could be used t
 
 Skills: OSINT, Threat Intelligence, Social Engineering, Privacy Analysis
 
-[➡️ View Sanitized Threat Brief (Link to your findings)]
+
 
 ## Incident Response Simulation: Phishing Attack
 *July 2025*
@@ -98,4 +98,4 @@ Developed a post-incident report with actionable recommendations for improving s
 
 Skills: SIEM (Splunk), Incident Response, Phishing Detection, Post-Incident Reporting
 
-[➡️ View Post-Incident Report (Link to your report)]
+
