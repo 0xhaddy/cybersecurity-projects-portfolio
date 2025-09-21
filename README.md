@@ -5,9 +5,13 @@
 ---
 Core Competencies 
 Offensive Security: Ethical Hacking, Penetration Testing, Web Application Attacks (OWASP Top 10), Privilege Escalation
+
 Defensive Security: SIEM Analysis (Splunk), Incident Response, Firewall Configuration (UFW), Network Security
+
 Digital Forensics (DFIR): File System Analysis, Memory Forensics, Evidence Handling, Reporting (Autopsy, FTK Imager)
+
 Tools & Technologies: OpenVPN, Pi-hole, Bash, Linux, Splunk, Autopsy, FTK Imager
+---
 
 ## Advanced Penetration Testing Labs (Hack The Box)
 *January 2025*
