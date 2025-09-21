@@ -3,7 +3,8 @@
 > Welcome! I'm a cybersecurity enthusiast with a passion for both offensive and defensive security. This portfolio showcases my hands-on experience in penetration testing, digital forensics, threat intelligence, and secure network architecture.
 
 ---
-Core Competencies 
+# Core Competencies 
+
 Offensive Security: Ethical Hacking, Penetration Testing, Web Application Attacks (OWASP Top 10), Privilege Escalation
 
 Defensive Security: SIEM Analysis (Splunk), Incident Response, Firewall Configuration (UFW), Network Security
@@ -11,6 +12,7 @@ Defensive Security: SIEM Analysis (Splunk), Incident Response, Firewall Configur
 Digital Forensics (DFIR): File System Analysis, Memory Forensics, Evidence Handling, Reporting (Autopsy, FTK Imager)
 
 Tools & Technologies: OpenVPN, Pi-hole, Bash, Linux, Splunk, Autopsy, FTK Imager
+
 ---
 
 ## Advanced Penetration Testing Labs (Hack The Box)
